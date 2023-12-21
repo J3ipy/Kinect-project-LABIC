@@ -15,4 +15,4 @@ Skeleton traction system developed using the Kinect for Windows SDK, Kinect v1 w
 ## Autor / Author
 **Autor:** João Pedro Santana Silva Santos <br />
 **Orientadora:** Profª. Dra. Stephanie Kamarry Alves de Sousa <br />
-**Coorientador:** Prof. Me. Fábio Luiz Sá Prudente
+**Coorientador:** Prof. Dr. Phillipe Cardoso
